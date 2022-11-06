@@ -31,4 +31,4 @@ This project is lead by [Angelisium][7].
 [5]: https://github.com/motion-twin/WebGamesArchives
 [6]: https://github.com/Angelisium/WebGamesArchives
 [7]: https://github.com/Angelisium
-[8]: ./LICENSE
+[8]: ../LICENSE
